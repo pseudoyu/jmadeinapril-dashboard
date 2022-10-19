@@ -5,8 +5,7 @@
       "items": [
         {"name":"Book - The Dome","url":"https://thedome.jmadeinapril.com","icon":"book-open"},
         {"name":"Website Monitor","url":"https://data.jmadeinapril.com","icon":"chart-areaspline"},
-        {"name":"Website Comments","url":"https://comments.jmadeinapril.com/dashboard/project/981622ec-5f26-488e-a593-9bfae2759252","icon":"comment-text-multiple-outline"},
-
+        {"name":"Website Comments","url":"https://comments.jmadeinapril.com/dashboard/project/981622ec-5f26-488e-a593-9bfae2759252","icon":"comment-text-multiple-outline"}
       ]
     }
   ],

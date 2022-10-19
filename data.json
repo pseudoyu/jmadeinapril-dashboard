@@ -1,0 +1,30 @@
+{
+  "apps" : [
+    {
+      "name": "Website",
+      "items": [
+        {"name":"Book - The Dome","url":"https://thedome.jmadeinapril.com","icon":"book-open"},
+        {"name":"Website Monitor","url":"https://data.jmadeinapril.com","icon":"chart-areaspline"}
+      ]
+    }
+  ],
+  "bookmarks" : [
+    {
+      "category": "Platform",
+      "links": [
+        {
+          "name": "Weibo",
+          "url": "https://weibo.com/u/7768313156"
+        },
+        {
+          "name": "Bilibili",
+          "url": "https://space.bilibili.com/1779982269"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/j.made.in.april/"
+        }
+      ]
+    }
+  ]
+}
